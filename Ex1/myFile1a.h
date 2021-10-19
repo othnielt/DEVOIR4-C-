@@ -4,6 +4,9 @@
 using namespace std;
 
 class Course {
+
+
+    
     int num;
     int hours;
 public:

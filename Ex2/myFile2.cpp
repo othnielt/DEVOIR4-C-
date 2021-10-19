@@ -10,6 +10,8 @@ int main() {
     SetInt a; 	// object creation
     int* tab;
 
+    
+
     while (a.nbElem() < 5)
     {
         cout << "add an int element" << endl;
